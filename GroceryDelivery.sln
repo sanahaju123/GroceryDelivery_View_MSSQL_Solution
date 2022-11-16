@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryDelivery", "GroceryDelivery\GroceryDelivery.csproj", "{28FD3193-CFEB-45E7-83DF-A52134A47C14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryDelivery.BusinessLayer", "GroceryDelivery.BusinessLayer\GroceryDelivery.BusinessLayer.csproj", "{9918FF12-87DE-427A-B75C-1EE362361090}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryDelivery.DataLayer", "GroceryDelivery.DataLayer\GroceryDelivery.DataLayer.csproj", "{F3F97039-A1A6-41EF-AB9A-0DBF27719DB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroceryDelivery.Entities", "GroceryDelivery.Entities\GroceryDelivery.Entities.csproj", "{CEB92B0B-D6C9-4F9A-96E5-3F5C98296ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryDelivery.Tests", "GroceryDelivery.Tests\GroceryDelivery.Tests.csproj", "{652713BE-CFEA-439F-ACF8-F54E84368454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FD3193-CFEB-45E7-83DF-A52134A47C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FD3193-CFEB-45E7-83DF-A52134A47C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FD3193-CFEB-45E7-83DF-A52134A47C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FD3193-CFEB-45E7-83DF-A52134A47C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9918FF12-87DE-427A-B75C-1EE362361090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9918FF12-87DE-427A-B75C-1EE362361090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9918FF12-87DE-427A-B75C-1EE362361090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9918FF12-87DE-427A-B75C-1EE362361090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F97039-A1A6-41EF-AB9A-0DBF27719DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F97039-A1A6-41EF-AB9A-0DBF27719DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F97039-A1A6-41EF-AB9A-0DBF27719DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F97039-A1A6-41EF-AB9A-0DBF27719DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB92B0B-D6C9-4F9A-96E5-3F5C98296ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB92B0B-D6C9-4F9A-96E5-3F5C98296ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB92B0B-D6C9-4F9A-96E5-3F5C98296ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB92B0B-D6C9-4F9A-96E5-3F5C98296ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652713BE-CFEA-439F-ACF8-F54E84368454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652713BE-CFEA-439F-ACF8-F54E84368454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652713BE-CFEA-439F-ACF8-F54E84368454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652713BE-CFEA-439F-ACF8-F54E84368454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A16658-A88D-4246-8C78-C34510AED9F2}
+	EndGlobalSection
+EndGlobal
